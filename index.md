@@ -1,5 +1,5 @@
 # Hello
 
-Hello. I like cats and murder.
+Hello. I like cats.
 
 ![iamaroundcat]({{ site.baseurl }}/assets/iamaroundcat.webp)
