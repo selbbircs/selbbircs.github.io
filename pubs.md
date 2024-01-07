@@ -1,0 +1,6 @@
+PUBLICATIONS
+
+- Y. H. V. Chua, H. Liu, L. P. Garcia Perera, F. T. Woon, J. Wong, X. Zhang, S. Khudanpur, A. W. H. Khong, J. Dauwels, and S. J. Styles (2023, June), "MERLIon CCS Challenge: A English-Mandarin code-switching child-directed speech corpus for language identification and diarization". http://arxiv.org/abs/2305.18881
+- Styles, S. J., Woon, F. T., Chua, V. Y. H., Fong, S., Wong, J., & Le, T. A. (2022, June). Language resources, language choices, and translanguaging in parent/child interactions. Workshop on Infant Language Development (WILD), San Sebastian. https://doi.org/10.17605/OSF.IO/FX74H
+- Loh, A., Yogarrajah, E. C., Woon, F. T., Wong, J., Mohd Salleh, N. S., Fong, S., Sundaray, S., Binte Amran, S., Styles, S. J., Le, T. A., & Chua, V. Y. H. (2022). BELA-Con: BLIP Lab Elan Transcription and Annotation Convention. https://blipntu.github.io/belacon/BELA/
+- Styles, S. J., Woon, F. T., Chua, V., Fong, S., Wong, J., & Le, T. A. (2022, July). Code-switching/Translanguaging in a large corpus of preschool parent/child interactions, in ‘The dynamic of language switching across communities: What do bilingual infants actually hear?’ International Congress on Infant Studies, Ottawa, Canada.
